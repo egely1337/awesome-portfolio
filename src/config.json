@@ -1,0 +1,36 @@
+{
+    "discord_id" : "discord_id",
+    "spotify" : {
+        "artist" : false
+    },
+    "social_links" : [
+        {
+            "image" : "github_logo.png",
+            "href" : "github.com/github_user",
+            "linkType" : "GitHub"
+        },
+        {
+            "image" : "twitter_logo.png",
+            "href" : "twitter.com/egely1337",
+            "linkType" : "Twitter"
+        },
+        {
+            "image" : "instagram_logo.png",
+            "href" : "instagram.com/instagram_user",
+            "linkType" : "Instagram"
+        },
+        {
+            "image" : "reddit_logo.png",
+            "href" : "reddit.com/u/reddit_user",
+            "linkType" : "Reddit"
+        }
+    ],
+    "display_text" : [
+        "Hello 👋, I am {name}.",
+        "I'm interested on {interest} and {interest}.",
+        "I live in {city}/{country}"
+    ],
+    "artist_id" : "spotify_artist_id",
+    "lanyard_discord_url" : "discord.gg/lanyard && you should join this discord channel if you want to use this."
+    
+}
